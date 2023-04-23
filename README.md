@@ -24,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mumerwasi&show_icons=true&locale=en" alt="mumerwasi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mumerwasi&" alt="mumerwasi" /></p>
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1665358/screenshots/7642177/media/ed27175d2ef5e053807571139f92afd2.gif">
