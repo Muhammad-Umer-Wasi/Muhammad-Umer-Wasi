@@ -2,9 +2,10 @@
 <h3 align="center">Passionate NLP data enthusiast, skilled in MERN stack development, with expertise in recommender systems and data analysis.</h3>
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mumerwasi&label=Profile%20views&color=0e75b6&style=flat" alt="mumerwasi" /> </p>
 
 <h3 align="left">💫 About Me</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mumerwasi&label=Profile%20views&color=0e75b6&style=flat" alt="mumerwasi" /> </p>
+
 - 🔭 I’m currently working on **CV Recommender**
 
 - 🌱 I’m currently learning **MERN Stack, NLP, Recommender System**
