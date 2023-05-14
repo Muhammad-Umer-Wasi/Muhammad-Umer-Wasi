@@ -31,3 +31,10 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MUmerWasi&column=7" alt="GitHub Trophies" />
 </p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Development+Artificial Intelligence+NLP+MERN:&color=%232ecc71" alt="Typing SVG">
+  </a>
+</p>
+
