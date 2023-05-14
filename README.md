@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Development+Artificial Intelligence+NLP+MERN:&color=%232ecc71" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com/?lines=<!MERN+NLP+AI!>:&color=%232ecc71" alt="Typing SVG">
   </a>
 </p>
 
