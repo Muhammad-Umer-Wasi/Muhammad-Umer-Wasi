@@ -29,5 +29,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mumerwasi&show_icons=true&locale=en" alt="mumerwasi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mumerwasi&" alt="mumerwasi" /></p>
-<h3 align="left">📊 Trophies</h3>
-[![trophy](https://github-profile-trophy.vercel.app/?username=MUmerWasi&r&title=Stars,Repositories,Commits,Issues,PullRequest,MultiLanguage&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
+<h3 align="left">📊 Trophies</h3><p><img align="center" src= "https://github.com/ryo-ma/github-profile-trophy"alt="mumerwasi" /></p>
