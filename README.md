@@ -28,7 +28,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mumerwasi&show_icons=true&locale=en" alt="mumerwasi" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mumerwasi&" alt="mumerwasi" /></p>
-<!-- Trophy -->
-## Achievements
-[![trophy](https://github-profile-trophy.vercel.app/?username=Usaid-Bin-Rehan&r&title=Stars,Repositories,Commits,Issues,PullRequest,MultiLanguage&theme=matrix)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MUmerWasi&column=7" alt="GitHub Trophies" />
+</p>
