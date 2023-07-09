@@ -33,9 +33,10 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=<!MERN+NLP+AI!>&color=%232ecc71" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com/?lines=<!MERN+NLP+AI+Django+React!>&color=%232ecc71,%23e74c3c,%239b59b6,%23f39c12" alt="Typing SVG">
   </a>
 </p>
+
 
 <h3 align="left">📊 Working On </h3>
 
