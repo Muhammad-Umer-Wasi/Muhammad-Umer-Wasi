@@ -11,6 +11,11 @@
 - 🔭 I’m currently working on **CV Recommender**
 - 🌱 I’m currently learning **MERN Stack, NLP, Recommender System**
 
+[![bookmark.style](https://svg.bookmark.style/api?url=https://bookmark.style/&mode=light&style=horizontal)](https://bookmark.style)
+[![tech-stack.tools](https://svg.bookmark.style/api?url=https://tech-stack.tools/&mode=dark&style=horizontal)](https://tech-stack.tools)
+[![onetab.group](https://svg.bookmark.style/api?url=https://www.onetab.group&mode=light&style=horizontal)](https://onetab.group)
+[![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-command-palette&mode=dark&style=horizontal)](https://github.com/xiaoluoboding/vue-command-palette)
+
 
 <h3 align="left">🌐 Socials</h3>
 <p align="left">
