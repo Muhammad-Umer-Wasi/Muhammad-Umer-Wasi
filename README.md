@@ -11,12 +11,6 @@
 - 🔭 I’m currently working on **CV Recommender**
 - 🌱 I’m currently learning **MERN Stack, NLP, Recommender System**
 
-[![bookmark.style](https://svg.bookmark.style/api?url=https://bookmark.style/&mode=light&style=horizontal)](https://bookmark.style)
-[![tech-stack.tools](https://svg.bookmark.style/api?url=https://tech-stack.tools/&mode=dark&style=horizontal)](https://tech-stack.tools)
-[![onetab.group](https://svg.bookmark.style/api?url=https://www.onetab.group&mode=light&style=horizontal)](https://onetab.group)
-[![vue-command-palette](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-command-palette&mode=dark&style=horizontal)](https://github.com/xiaoluoboding/vue-command-palette)
-
-
 <h3 align="left">🌐 Socials</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammad umer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad umer" height="30" width="40" /></a>
@@ -43,3 +37,10 @@
   </a>
 </p>
 
+<h3 align="left">📊 Working On </h3>
+[![React](https://svg.bookmark.style/api?url=https://reactjs.org&mode=light&style=horizontal)](https://reactjs.org)
+[![Django](https://svg.bookmark.style/api?url=https://www.djangoproject.com&mode=dark&style=horizontal)](https://www.djangoproject.com)
+[![MERN](https://svg.bookmark.style/api?url=https://www.mongodb.com/mern-stack&mode=light&style=horizontal)](https://www.mongodb.com/mern-stack)
+[![Web Scraping](https://svg.bookmark.style/api?url=https://en.wikipedia.org/wiki/Web_scraping&mode=dark&style=horizontal)](https://en.wikipedia.org/wiki/Web_scraping)
+[![Python](https://svg.bookmark.style/api?url=https://www.python.org&mode=light&style=horizontal)](https://www.python.org)
+[![NLP](https://svg.bookmark.style/api?url=https://en.wikipedia.org/wiki/Natural_language_processing&mode=dark&style=horizontal)](https://en.wikipedia.org/wiki/Natural_language_processing)
