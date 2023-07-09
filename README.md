@@ -44,5 +44,6 @@
 [![MERN](https://svg.bookmark.style/api?url=https://www.mongodb.com/mern-stack&mode=light&style=horizontal)](https://www.mongodb.com/mern-stack)
 [![Web Scraping](https://svg.bookmark.style/api?url=https://en.wikipedia.org/wiki/Web_scraping&mode=dark&style=horizontal)](https://en.wikipedia.org/wiki/Web_scraping)
 [![Python](https://svg.bookmark.style/api?url=https://www.python.org&mode=light&style=horizontal)](https://www.python.org)
-[![NLP](https://svg.bookmark.style/api?url=https://en.wikipedia.org/wiki/Natural_language_processing&mode=dark&style=horizontal)](https://realpython.com/nltk-nlp-python/)
+[![NLP](https://svg.bookmark.style/api?url=https://realpython.com/nltk-nlp-python/&mode=dark&style=horizontal)](https://realpython.com/nltk-nlp-python/)
+
 
