@@ -47,4 +47,25 @@
 [![Python](https://svg.bookmark.style/api?url=https://www.python.org&mode=light&style=horizontal)](https://www.python.org)
 [![NLP](https://svg.bookmark.style/api?url=https://realpython.com/nltk-nlp-python/&mode=dark&style=horizontal)](https://realpython.com/nltk-nlp-python/)
 
+<h3 align="center">📊 Working On </h3>
+<p align="center">
+  <a href="https://reactjs.org">
+    <img src="https://svg.bookmark.style/api?url=https://reactjs.org&mode=light&style=horizontal" alt="React">
+  </a>
+  <a href="https://www.djangoproject.com">
+    <img src="https://svg.bookmark.style/api?url=https://www.djangoproject.com&mode=dark&style=horizontal" alt="Django">
+  </a>
+  <a href="https://www.mongodb.com/mern-stack">
+    <img src="https://svg.bookmark.style/api?url=https://www.mongodb.com/mern-stack&mode=light&style=horizontal" alt="MERN">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Web_scraping">
+    <img src="https://svg.bookmark.style/api?url=https://en.wikipedia.org/wiki/Web_scraping&mode=dark&style=horizontal" alt="Web Scraping">
+  </a>
+  <a href="https://www.python.org">
+    <img src="https://svg.bookmark.style/api?url=https://www.python.org&mode=light&style=horizontal" alt="Python">
+  </a>
+  <a href="https://realpython.com/nltk-nlp-python/">
+    <img src="https://svg.bookmark.style/api?url=https://realpython.com/nltk-nlp-python/&mode=dark&style=horizontal" alt="NLP">
+  </a>
+</p>
 
