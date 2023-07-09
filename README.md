@@ -5,14 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mumerwasi&label=Profile%20views&color=0e75b6&style=flat" alt="mumerwasi" /> </p>
 
-
 <h3 align="left">💫 About Me</h3>
 
 - 🔭 I’m currently learning **MERN Stack, Django, NLP, Web Scraping**
 
 <h3 align="left">🌐 Socials</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/muhammad umer](https://www.linkedin.com/in/muhammad-umer-wasi-186373207/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad umer" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammad-umer-wasi-186373207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad umer" height="30" width="40" /></a>
 <a href="https://fb.com/mumerwasi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mumerwasi" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/umer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="umer" height="30" width="40" /></a>
 </p>
