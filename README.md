@@ -8,8 +8,7 @@
 
 <h3 align="left">💫 About Me</h3>
 
-- 🔭 I’m currently working on **CV Recommender**
-- 🌱 I’m currently learning **MERN Stack, NLP, Recommender System**
+- 🔭 I’m currently learning **MERN Stack, Django, NLP, Web Scraping**
 
 <h3 align="left">🌐 Socials</h3>
 <p align="left">
