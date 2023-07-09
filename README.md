@@ -40,14 +40,6 @@
 
 <h3 align="left">📊 Working On </h3>
 
-[![React](https://svg.bookmark.style/api?url=https://reactjs.org&mode=light&style=horizontal)](https://reactjs.org)
-[![Django](https://svg.bookmark.style/api?url=https://www.djangoproject.com&mode=dark&style=horizontal)](https://www.djangoproject.com)
-[![MERN](https://svg.bookmark.style/api?url=https://www.mongodb.com/mern-stack&mode=light&style=horizontal)](https://www.mongodb.com/mern-stack)
-[![Web Scraping](https://svg.bookmark.style/api?url=https://en.wikipedia.org/wiki/Web_scraping&mode=dark&style=horizontal)](https://en.wikipedia.org/wiki/Web_scraping)
-[![Python](https://svg.bookmark.style/api?url=https://www.python.org&mode=light&style=horizontal)](https://www.python.org)
-[![NLP](https://svg.bookmark.style/api?url=https://realpython.com/nltk-nlp-python/&mode=dark&style=horizontal)](https://realpython.com/nltk-nlp-python/)
-
-<h3 align="center">📊 Working On </h3>
 <p align="center">
   <a href="https://reactjs.org">
     <img src="https://svg.bookmark.style/api?url=https://reactjs.org&mode=light&style=horizontal" alt="React">
