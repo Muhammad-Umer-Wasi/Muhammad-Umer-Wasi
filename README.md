@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Umer Wasi</h1>
-<h3 align="center">Passionate NLP data enthusiast, skilled in MERN stack development, with expertise in recommender systems and data analysis.</h3>
+<h3 align="center">Passionate full stack web developer skilled in MERN, Django + React. Expert in NLP and web scraping. Let's build something amazing!</h3>
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
