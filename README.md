@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Umer Wasi</h1>
-<h3 align="center">Passionate full stack web developer skilled in MERN, Django + React. Expert in NLP and web scraping. Let's build something amazing!</h3>
+<h3 align="center">Passionate full stack web developer skilled in MERN, .Net Core, Django + React. Expert in NLP and web scraping. Let's build something amazing!</h3>
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -7,7 +7,7 @@
 
 <h3 align="left">💫 About Me</h3>
 
-- 🔭 I’m currently learning **MERN Stack, Django, NLP, Web Scraping**
+- 🔭 I’m currently learning **MERN Stack, Django ,.Net Core ,NLP, Web Scraping**
 
 <h3 align="left">🌐 Socials</h3>
 <p align="left">
