@@ -6,7 +6,7 @@
 
 <h3 align="left">💫 About Me</h3>
 
-- 🔭 I’m currently learning **MERN Stack, Django ,.Net Core ,NLP, Web Scraping**
+- 🔭 I’m currently learning **MERN Stack, React Native ,.Net Core ,NLP, Web Scraping**
 
 <h3 align="left">🌐 Socials</h3>
 <p align="left">
