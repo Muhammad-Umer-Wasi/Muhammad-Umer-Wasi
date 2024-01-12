@@ -44,6 +44,7 @@
 
 <h3 align="left">📊 GitHub Stats</h3>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhammad-Umer-wasi&show_icons=true&locale=en&layout=compact&theme=radical" alt="Muhammad-Umer-wasi" /></p>
+<p href="http://www.github.com/sumsam-ali-sac"><img src="https://github-readme-streak-stats.herokuapp.com/?user=muhammad-umer-wasi&stroke=ffffff&background=0D1117&ring=6366f1&fire=6366f1&currStreakNum=ffffff&currStreakLabel=6366f1&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Umer-wasi&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
