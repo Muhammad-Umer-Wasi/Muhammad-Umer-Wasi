@@ -43,7 +43,7 @@
 </p>
 
 <h3 align="left">📊 GitHub Stats</h3>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhammad-Umer-wasi&show_icons=true&locale=en&layout=compact" alt="Muhammad-Umer-wasi" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Muhammad-Umer-wasi&show_icons=true&locale=en&layout=compact&theme=radical" alt="Muhammad-Umer-wasi" /></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Umer-wasi&show_icons=true&theme=radical" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Umer-wasi&show_icons=true&locale=en" alt="Muhammad-Umer-wasi" /></p>
 
